@@ -1,6 +1,6 @@
 [submodule "grbl"]
 	path = grbl
-	url = https://github.com/j2kampen/core-UWLab
+	url = https://github.com/UWLab-CNC-Plasma/core-UWLab
 [submodule "eeprom"]
 	path = eeprom
 	url = https://github.com/grblHAL/Plugin_EEPROM
