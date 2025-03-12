@@ -12,7 +12,7 @@ This is a custom fork of grblHAL for STM32F4xx, modified to support a 2-axis CNC
   - Changed Feed Hold behavior so that it stops the spindle (torch) as well, even when not in laser mode.
 
 ## Building and Installation
-- Built and uploaded using **PlatformIO in VS Code**.
+- Build and upload the `nucleo_f446re_generic_uno` environment using **PlatformIO in VS Code**.
 - Follow the original repository’s build instructions for setup details.
 
 ## Date
